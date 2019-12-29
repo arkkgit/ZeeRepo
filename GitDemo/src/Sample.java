@@ -6,6 +6,7 @@ public class Sample {
 		// This is my first comment
 		//This is to demo 	Commit + push
 		// this is edited by the team member
+		// this is to demo pull
 
 	}
 
